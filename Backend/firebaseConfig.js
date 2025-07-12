@@ -5,7 +5,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCRoy2dzlb1LuhRL3qxhAdY9mf2Dn2QU6g",
+  apiKey: "#",
   authDomain: "coachme-app.firebaseapp.com",
   projectId: "coachme-app",
   storageBucket: "coachme-app.firebasestorage.app",
